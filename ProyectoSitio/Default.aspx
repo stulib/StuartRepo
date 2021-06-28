@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <label>Hello. This is my site - Author: </label>
+            <label>Hello. This is my site - Author: Stuart</label>
         </div>
     </form>
 </body>
